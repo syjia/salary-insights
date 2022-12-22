@@ -25,7 +25,7 @@ Item_Outlet_Sales	| Sales of the product in the particular store. This is the ta
 
 
 ## Methods
-- We conducted exploratory analysis of dataset. Results can be reviewed from this notebook
+- We conducted exploratory analysis of dataset. Results can be reviewed from [this notebook](https://github.com/syjia/salary-insights/blob/main/Data_Science_Sales_Insights.ipynb)
 - We then compared the performance of two machine learning models: **linear regression** and **regression trees**
 
 ## Results
